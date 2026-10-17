@@ -1,6 +1,6 @@
 ## Hi, I'm Prathithi 👋
 
-Computational Media @ Georgia Tech (Computing & Interaction Design) · iOS developer · interested in design, privacy, and where engineering meets creativity.
+Computational Media @ Georgia Tech (Intelligence & Interaction Design) · iOS developer · interested in design, privacy, and where engineering meets creativity.
 
 ### What I've built
 
